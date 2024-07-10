@@ -1,0 +1,45 @@
+h2{
+    color:#0e1443;
+}
+
+button[type=submit]{
+    background-color: #2e2a5b;
+    border-radius: 30px;
+    padding: 5px 10px;
+    border: none; 
+    margin-right:145px;
+}
+.card{
+    margin-top: 65px;
+    box-shadow: rgba(0, 0, 0, 0.24) 2px 2px 9px;
+    
+}
+/* body{
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgNDQgICggICA0ICA0HCAgIBw8ICQcNFREWFhURExMYHSggGBolGxMTITEhJSkrOi4uFx8zODMsNygtLisBCgoKDQ0NFQ8NFS0ZFRkrLS0tKystLSsrKy0rKystKysrLSsrNy0tKy0rLS0tNystKysrKy0tLSsrLSsrKystK//AABEIAKgBLAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAf/xAAZEAEBAQEBAQAAAAAAAAAAAAAAARECEkH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APiDTLShGmY1FRWoy1Aab5YjfIjfLfLHLXLUR15dOXLl05ahXbl15+OPLry1GXbh25cOK681uM16OK7815ea7c9Kj0zpnuufpL0Cd1w6b66cuqDn05dOnVcuqzWo59OXTp05dM1XPpz6b6c+mWoxWK3WKzVYqVazWVZqValEZqLUFSotRKqRpmNQFjUZWKjTUZiwRuNcsxYDpG45xuNQdY3zXLmukrSO0rpzXHmunNWMu/Ndea8/NdOempSx6Oem50886bnTWsO/pL05ek9KOl6c+qlrHXSauJ1XPqra59VmtM9OfVatc+qzVYrHTXVc7WVSsVqsVmqyzVZqKlQQRKhQVKzq1lFWNRhqA0sQio2IojcVmVqA3G45ytRR0ldJXKNc1qDtzXSVxlblVmx2lbnTjK1Omkd501OnCVr0ujt7PTl6T0aY6Xpm1i9M2mjVrFqWsWoHVc7VtYtZaTqsVbWbUqpWOqtZZErFarNQRKtZoJQSipWVqMqLEWA1FZjTSLGoxGhGo1GFlB0alYiwHSVqMSrKso6ytSuUrUrQ7StTpxlalVMdpV9OUq+l1MdfR6cvR6NHTWbWNS00xq9M2s2s2oq2s2palqKWsWrax1WQtZolQS1lUBGatQUZq1EEqAigANRYzFijSxBUbEiiNStObUoNytSsKDpK1K5yrq6Okqzpz1rV0dJV1y1dVHTaa56aDepemNNBq1nUtS1NVbWTWbUC1kS1ArNpagCCWglBKKlSqyigIgKigLEAbisrKqLGoyKNiRRGpWpXNZQbXWZVBuVdc1Ub1dc9XQb01j0egb1NZ1NBrUtRAVE1LUFtZtNQBBLQLUAUZLUqKlAQEAAAFEUBplYo1KrKyiK1KyKNKzKoirKgDUq6wuit6MaaDYz6TRGzWNNFa1NZAXUEEVDWdFW1AAZtLUtRSoCAioAAAAAACiKAqAN6rGqo0Jqqi6usgNKwug0M6uiKJpoKM6aCiagq6agAIaBagmopagIAIAAAAAAAAAACiKAaALqsmqN6rGqDQzq6IommqKJsNgKJpoKM6ILprOmiqmoIAAAgAAAAAAAAAAAAAAAqAKIoAAGrqALpqALpqALpqALqAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAKgCgAAACAKgAAAAAAAAAAAAAAA/9k=");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+.card-title{
+    background-color: #e0e2e4;
+    
+}
+
+.card {
+    margin-top: 65px;
+    box-shadow: rgba(51, 46, 46, 0.24) 2px 2px 9px;
+    border-radius: 55px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 25px;
+     /* Rounded corners for the card */
+    overflow: hidden; /* To ensure content stays within the rounded corners */
+}
+
+
+
+/*  */
+
+
+
+
+
